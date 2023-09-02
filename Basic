@@ -1,0 +1,8 @@
+Ansible: Configuration managemet tool.
+
+
+Ansible is:
+Agentless
+Minimal run requirements (Python & SSH) and simple to use
+Default mode is "push" (it supports also pull)
+Focus on simpleness and ease-of-use
